@@ -21,11 +21,11 @@
 
 ### 📌 Overview
 
-I am an enthusiastic Python developer dedicated to building clean, structured code using **Object-Oriented Programming (OOP)** design principles. My primary area of focus is **Computer Vision**, where I use OpenCV to develop real-world image processing tools and applications. 
+I am an enthusiastic Python developer dedicated to building clean, structured code using **Object-Oriented Programming (OOP)** design principles. My primary area of focus is **Computer Vision**, where I use OpenCV to develop real-world image processing tools and applications.
 
-* 💡 **Core Interests:** Software Development, Image Processing, Algorithmic Thinking
-* 🎯 **Goal:** To develop robust, scalable Python applications and computer vision models.
-* ⚡ **Fun Fact:** I love turning complex logic into modular, reusable OOP components!
+- 💡 **Core Interests:** Software Development, Image Processing, Algorithmic Thinking
+- 🎯 **Goal:** To develop robust, scalable Python applications and computer vision models.
+- ⚡ **Fun Fact:** I love turning complex logic into modular, reusable OOP components!
 
 ---
 
@@ -51,41 +51,17 @@ I am an enthusiastic Python developer dedicated to building clean, structured co
 
 ---
 
----
+### 📊 GitHub Activity & Metrics
 
-### 📊 GitHub Analytics
-
-<!-- START GLOBAL STATS -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aftabatech24-dev&show_icons=true&theme=algolia&hide_border=true&count_private=true&title_color=0172B1" alt="Aftab's GitHub Stats" height="175px" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aftabatech24-dev&layout=compact&theme=algolia&hide_border=true&title_color=0172B1" alt="Top Languages" height="175px" />
-</div>
-<!-- END GLOBAL STATS -->
-
-<br/>
-
-<!-- START STREAK AND TROPHIES -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aftabatech24-dev&theme=algolia&hide_border=true&title_color=0172B1" alt="GitHub Streak" height="175px" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-profile-trophy.vercel.app/?username=aftabatech24-dev&theme=alduin&margin-w=10&no-bg=true" alt="GitHub Trophies" height="175px" />
-</div>
-<!-- END STREAK AND TROPHIES -->
-
----
-
-<!-- START ACTIVITY GRAPH -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aftabatech24-dev&bg_color=0D1117&color=6CC644&line=2B6EED&point=FFFFFF&area=true&hide_border=true" alt="Aftab's Activity Graph" width="100%" />
-</div>
-<!-- END ACTIVITY GRAPH -->
-
-<br/>
-### 📈 Activity Graph
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile-aftabatech24--dev-blue?style=for-the-badge&logo=github" alt="Profile" />
+  <img src="https://img.shields.io/badge/Primary%20Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Primary Language" />
+  <img src="https://img.shields.io/badge/Focus-Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="Focus" />
+</p>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aftabatech24-dev&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aftabatech24-dev&theme=tokyo-night&hide_border=true" alt="Aftab's Activity Graph" width="100%" />
 </div>
 
 ---
