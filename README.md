@@ -19,6 +19,16 @@
 
 ---
 
+### 📌 Overview
+
+I am an enthusiastic Python developer dedicated to building clean, structured code using **Object-Oriented Programming (OOP)** design principles. My primary area of focus is **Computer Vision**, where I use OpenCV to develop real-world image processing tools and applications. 
+
+* 💡 **Core Interests:** Software Development, Image Processing, Algorithmic Thinking
+* 🎯 **Goal:** To develop robust, scalable Python applications and computer vision models.
+* ⚡ **Fun Fact:** I love turning complex logic into modular, reusable OOP components!
+
+---
+
 ### 🚀 About Me
 
 - 🔭 **Current Focus:** Building mini Python projects, mastering OOP principles, and creating Computer Vision tools.
@@ -65,5 +75,5 @@
 ---
 
 <div align="center">
-  <p>⭐️ From <a href="https://github.com/aftabatech24-dev">Aftab A</a></p>
+  <p>⭐️ Profile maintained by <a href="https://github.com/aftabatech24-dev">Aftab A</a></p>
 </div>
