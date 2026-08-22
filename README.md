@@ -21,7 +21,7 @@
 
 ### 📌 Overview
 
-I am an enthusiastic Python developer dedicated to building clean, structured code using **Object-Oriented Programming (OOP)** design principles. My primary area of focus is **Computer Vision**, where I use OpenCV to develop real-world image processing tools and applications.
+I am an enthusiastic Python developer dedicated to building clean, structured code using **Object-Oriented Programming (OOP)** design principles. My primary area of focus is **Computer Vision**, where I use OpenCV to develop real-world image processing tools and applications. 
 
 - 💡 **Core Interests:** Software Development, Image Processing, Algorithmic Thinking
 - 🎯 **Goal:** To develop robust, scalable Python applications and computer vision models.
@@ -51,18 +51,32 @@ I am an enthusiastic Python developer dedicated to building clean, structured co
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile-aftabatech24--dev-blue?style=for-the-badge&logo=github" alt="Profile" />
-  <img src="https://img.shields.io/badge/Primary%20Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Primary Language" />
-  <img src="https://img.shields.io/badge/Focus-Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="Focus" />
+  <a href="https://github.com/aftabatech24-dev">
+    <img src="https://github-readme-stats.vercel.app/api?username=aftabatech24-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aftab's GitHub Stats" />
+  </a>
+  <a href="https://github.com/aftabatech24-dev">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aftabatech24-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
-<div align="center">
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aftabatech24-dev&theme=tokyo-night&hide_border=true" alt="Aftab's Activity Graph" width="100%" />
-</div>
+<p align="center">
+  <a href="https://github.com/aftabatech24-dev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aftabatech24-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
+
+---
+
+### 📈 Activity Graph
+
+<p align="center">
+  <a href="https://github.com/aftabatech24-dev">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aftabatech24-dev&theme=tokyo-night&hide_border=true" alt="Aftab's Activity Graph" width="100%" />
+  </a>
+</p>
 
 ---
 
