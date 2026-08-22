@@ -1,25 +1,69 @@
-<h1 align="center">Hi 👋, I'm Aftab A</h1>
-<h3 align="center">An aspiring Python Developer passionate about Object-Oriented Programming & Computer Vision.</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **Mini Python projects, OOP concepts, and OpenCV tools**
+  <h1>Hi 👋, I'm Aftab A</h1>
+  <p><strong>An aspiring Python Developer passionate about Object-Oriented Programming & Computer Vision</strong></p>
 
-- 👯I'm currently learning **Advanced Python, Data Structures, and Computer Vision**
+  <p>
+    <a href="https://linkedin.com/in/aftab-a-86b90a3ba" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://instagram.com/aftab_a_017" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="mailto:aftab.a.tech24@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/aftabatech24-dev](https://github.com/aftabatech24-dev)
+</div>
 
-- 💬 Ask me about **Python basics, OOP, OpenCV, or beginner project ideas**
+---
 
-- 📫 How to reach me **aftab.a.tech24@gmail.com**
+### 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
+- 🔭 **Current Focus:** Building mini Python projects, mastering OOP principles, and creating Computer Vision tools.
+- 📚 **Currently Learning:** Advanced Python, Data Structures & Algorithms, and OpenCV deep-dives.
+- 💬 **Ask Me About:** Python fundamentals, Object-Oriented Programming, OpenCV basics, and project ideas.
+- 👨‍💻 **All Projects:** Explore my repositories at [aftabatech24-dev](https://github.com/aftabatech24-dev)
+
+---
+
+### 🛠️ Languages & Tools
+
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/aftab-a-86b90a3ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aftab-a-86b90a3ba" height="30" width="40" /></a>
-<a href="https://instagram.com/aftab_a_017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aftab_a_017" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aftabatech24-dev&show_icons=true&locale=en&layout=compact" alt="aftabatech24-dev" /></p>
+### 📊 GitHub Analytics
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aftabatech24-dev&show_icons=true&locale=en" alt="aftabatech24-dev" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aftabatech24-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aftab's GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aftabatech24-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aftabatech24-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aftabatech24-dev&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
+</div>
+
+---
+
+<div align="center">
+  <p>⭐️ From <a href="https://github.com/aftabatech24-dev">Aftab A</a></p>
+</div>
