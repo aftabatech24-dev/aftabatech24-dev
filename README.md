@@ -51,21 +51,37 @@ I am an enthusiastic Python developer dedicated to building clean, structured co
 
 ---
 
+---
+
 ### 📊 GitHub Analytics
 
+<!-- START GLOBAL STATS -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aftabatech24-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aftab's GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aftabatech24-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aftabatech24-dev&show_icons=true&theme=algolia&hide_border=true&count_private=true&title_color=0172B1" alt="Aftab's GitHub Stats" height="175px" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aftabatech24-dev&layout=compact&theme=algolia&hide_border=true&title_color=0172B1" alt="Top Languages" height="175px" />
 </div>
+<!-- END GLOBAL STATS -->
 
 <br/>
 
+<!-- START STREAK AND TROPHIES -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aftabatech24-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aftabatech24-dev&theme=algolia&hide_border=true&title_color=0172B1" alt="GitHub Streak" height="175px" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-profile-trophy.vercel.app/?username=aftabatech24-dev&theme=alduin&margin-w=10&no-bg=true" alt="GitHub Trophies" height="175px" />
 </div>
+<!-- END STREAK AND TROPHIES -->
 
 ---
 
+<!-- START ACTIVITY GRAPH -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aftabatech24-dev&bg_color=0D1117&color=6CC644&line=2B6EED&point=FFFFFF&area=true&hide_border=true" alt="Aftab's Activity Graph" width="100%" />
+</div>
+<!-- END ACTIVITY GRAPH -->
+
+<br/>
 ### 📈 Activity Graph
 
 <div align="center">
