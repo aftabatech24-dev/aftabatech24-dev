@@ -1,6 +1,6 @@
 <div align="center">
 
-### 📌 Overview<h1 align="center">Hi 👋, I'm Aftab A</h1>
+<h1 align="center">Hi 👋, I'm Aftab A</h1>
 <p align="center"><strong>An aspiring Python Developer passionate about Object-Oriented Programming & Computer Vision</strong></p>
 
 <p align="center">
