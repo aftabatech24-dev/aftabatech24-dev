@@ -72,10 +72,3 @@ I am an enthusiastic Python developer dedicated to building clean, structured co
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aftabatech24-dev&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
-
-I am an enthusiastic Python developer dedicated to building clean, structured code using **Object-Oriented Programming (OOP)** design principles. My primary area of focus is **Computer Vision**, where I use OpenCV to develop real-world image processing tools and applications. 
-
-- 💡 **Core Interests:** Software Development, Image Processing, Algorithmic Thinking
-- 🎯 **Goal:** To develop robust, scalable Python applications and computer vision models.
-
----
